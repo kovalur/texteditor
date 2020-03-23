@@ -1,2 +1,4 @@
 # texteditor
-A simple Text Editor built with .NET Framework/C# WinForms
+A simple Text Editor.
+
+Using .NET Framework WinForms.
